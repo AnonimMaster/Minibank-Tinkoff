@@ -1,0 +1,2 @@
+# MiniBank
+## Vladimirov Kirill
